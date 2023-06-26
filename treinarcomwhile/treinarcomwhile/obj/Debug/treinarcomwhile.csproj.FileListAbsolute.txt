@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\treinarcomwhile\treinarcomwhile\obj\Debug\treinarcomwhile.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\treinarcomwhile\treinarcomwhile\obj\Debug\treinarcomwhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\treinarcomwhile\treinarcomwhile\obj\Debug\treinarcomwhile.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\treinarcomwhile\treinarcomwhile\bin\Debug\treinarcomwhile.exe.config
+C:\Users\User\source\repos\treinarcomwhile\treinarcomwhile\bin\Debug\treinarcomwhile.exe
+C:\Users\User\source\repos\treinarcomwhile\treinarcomwhile\bin\Debug\treinarcomwhile.pdb
+C:\Users\User\source\repos\treinarcomwhile\treinarcomwhile\obj\Debug\treinarcomwhile.exe
+C:\Users\User\source\repos\treinarcomwhile\treinarcomwhile\obj\Debug\treinarcomwhile.pdb
