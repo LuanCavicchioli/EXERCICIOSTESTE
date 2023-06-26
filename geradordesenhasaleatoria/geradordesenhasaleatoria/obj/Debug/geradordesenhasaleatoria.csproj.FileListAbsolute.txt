@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\geradordesenhasaleatoria\geradordesenhasaleatoria\bin\Debug\geradordesenhasaleatoria.exe.config
+C:\Users\User\source\repos\geradordesenhasaleatoria\geradordesenhasaleatoria\bin\Debug\geradordesenhasaleatoria.exe
+C:\Users\User\source\repos\geradordesenhasaleatoria\geradordesenhasaleatoria\bin\Debug\geradordesenhasaleatoria.pdb
+C:\Users\User\source\repos\geradordesenhasaleatoria\geradordesenhasaleatoria\obj\Debug\geradordesenhasaleatoria.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\geradordesenhasaleatoria\geradordesenhasaleatoria\obj\Debug\geradordesenhasaleatoria.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\geradordesenhasaleatoria\geradordesenhasaleatoria\obj\Debug\geradordesenhasaleatoria.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\geradordesenhasaleatoria\geradordesenhasaleatoria\obj\Debug\geradordesenhasaleatoria.exe
+C:\Users\User\source\repos\geradordesenhasaleatoria\geradordesenhasaleatoria\obj\Debug\geradordesenhasaleatoria.pdb

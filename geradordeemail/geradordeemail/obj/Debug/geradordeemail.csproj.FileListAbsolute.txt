@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\geradordeemail\geradordeemail\bin\Debug\geradordeemail.exe.config
+C:\Users\User\source\repos\geradordeemail\geradordeemail\bin\Debug\geradordeemail.exe
+C:\Users\User\source\repos\geradordeemail\geradordeemail\bin\Debug\geradordeemail.pdb
+C:\Users\User\source\repos\geradordeemail\geradordeemail\obj\Debug\geradordeemail.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\geradordeemail\geradordeemail\obj\Debug\geradordeemail.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\geradordeemail\geradordeemail\obj\Debug\geradordeemail.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\geradordeemail\geradordeemail\obj\Debug\geradordeemail.exe
+C:\Users\User\source\repos\geradordeemail\geradordeemail\obj\Debug\geradordeemail.pdb
